@@ -12,4 +12,5 @@ Pressing 50-51 piezoelectric sensors for a good amount of times can provide us w
 To implement that, I have designed a Piezoelectric shoe which has 25 or 26 piezoelectric sensors embedded in each shoe of the pair. Now they will get pressed whenever you walk, jog, run or even press down the paddle while playing piano! 
 
 NOTE : This device will work efficiently ONLY if the number of presses are more. Doesn't work if you press and hold the sensor down for any matter of minutes. For any questions, head to the model and I'll answer them for you.
-***NEW : Added a LTSpice Schematic and Plot for simulation 
+
+***NEW : Added a LTSpice Schematic and Plot for simulation ***
