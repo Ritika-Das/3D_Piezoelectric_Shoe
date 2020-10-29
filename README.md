@@ -15,3 +15,5 @@ To implement that, I have designed a Piezoelectric shoe which has 25 or 26 piezo
 NOTE : This device will work efficiently ONLY if the number of presses are more. Doesn't work if you press and hold the sensor down for any matter of minutes. For any questions, head to the model and I'll answer them for you.
 
 ***NEW : Added a LTSpice Schematic and Plot for simulation ***
+
+<a href="https://youtu.be/Q4ItYg_mMLM">Click here to view the deliverable on YouTube!</a>
